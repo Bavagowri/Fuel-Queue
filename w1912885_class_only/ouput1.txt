@@ -1,0 +1,41 @@
+Queue 1 :
+ Customer no1 = Empty
+ Customer no2 = Empty
+ Customer no3 = Empty
+ Customer no4 = Empty
+ Customer no5 = Empty
+ Customer no6 = Empty
+ 
+Queue 2 :
+ Customer no1 = Empty
+ Customer no2 = Empty
+ Customer no3 = Empty
+ Customer no4 = Empty
+ Customer no5 = Empty
+ Customer no6 = Empty
+ 
+Queue 3 :
+ Customer no1 = Empty
+ Customer no2 = Empty
+ Customer no3 = Empty
+ Customer no4 = Empty
+ Customer no5 = Empty
+ Customer no6 = Empty
+ 
+Queue 4 :
+ Customer no1 = Empty
+ Customer no2 = Empty
+ Customer no3 = Empty
+ Customer no4 = Empty
+ Customer no5 = Empty
+ Customer no6 = Empty
+ 
+Queue 5 :
+ Customer no1 = Empty
+ Customer no2 = Empty
+ Customer no3 = Empty
+ Customer no4 = Empty
+ Customer no5 = Empty
+ Customer no6 = Empty
+
+The fuel stock available is :6590
